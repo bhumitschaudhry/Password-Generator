@@ -75,7 +75,7 @@ export const PasswordGenerator: React.FC = () => {
       {/* Header */}
       <div className="border-b-4 border-black bg-yellow-400 p-6">
         <h2 className="text-4xl md:text-5xl leading-none tracking-tighter text-black">
-            PASSWORD<br/>GENERATOR
+            PROJECT<br/>PASSWORD
         </h2>
       </div>
 

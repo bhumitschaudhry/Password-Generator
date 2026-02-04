@@ -17,7 +17,7 @@ export function App() {
       
       {/* Footer */}
       <div className="absolute bottom-4 right-4 bg-black text-white px-2 py-1 font-mono text-xs font-bold border-2 border-white">
-        SECURE_GENERATOR_V1
+        PROJECT_PASSWORD_V1
       </div>
     </div>
   );
